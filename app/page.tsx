@@ -7,6 +7,7 @@ import Image from 'next/image';
 import HeroMobile from '@/public/hero-mobile.png';
 
 export default function Page() {
+
   return (
     <main className="flex min-h-screen flex-col p-6">
        <div className={styles.shape} />
